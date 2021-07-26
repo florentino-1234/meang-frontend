@@ -1,0 +1,9 @@
+@import "../../../pages/admin.component.scss";
+
+#sidebar-wrapper[_ngcontent-idw-c21] {
+    background-color: $admin-primary-color;
+}
+
+.sidebar-heading a{
+    color: whitesmoke;
+}
